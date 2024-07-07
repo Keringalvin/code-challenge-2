@@ -21,8 +21,8 @@ To run the application locally, open the index.html file in your web browser. Th
 
 ## Deployed Version
 
-The deployed version of this application can be accessed at [deployed link] (https://keringalvin.github.io/code-challenge-2/)
-
+The deployed version of this application can be accessed at 
+[deployed link](https://keringalvin.github.io/code-challenge-2/)
 ## About the Project
 
 This project was created by Alvin Kiptoo. It serves as a practical demonstration of basic DOM manipulation and event handling in JavaScript.
