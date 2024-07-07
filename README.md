@@ -21,7 +21,7 @@ To run the application locally, open the index.html file in your web browser. Th
 
 ## Deployed Version
 
-The deployed version of this application can be accessed at 
+The deployed version of this application can be accessed at [deployed link] (https://keringalvin.github.io/code-challenge-2/)
 
 ## About the Project
 
